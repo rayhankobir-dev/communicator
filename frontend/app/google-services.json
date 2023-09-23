@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "407466306189",
+    "project_id": "communicator-7df08",
+    "storage_bucket": "communicator-7df08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:407466306189:android:6d29f93b7cbca14e3290c4",
+        "android_client_info": {
+          "package_name": "com.example.communicator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "407466306189-eitf4hqs1okve4k1219aqvkbukrsl78c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgOU9UxikBok9h6Vd1exRydJsWSSyWNWo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "407466306189-eitf4hqs1okve4k1219aqvkbukrsl78c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
