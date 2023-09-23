@@ -1,39 +1,4 @@
-﻿![](documentation/Aspose.Words.0fc37968-a019-4bac-b106-05821f43c87b.001.png)
-
-Green University of Bangladesh
-
-Department of Computer Science & Engineering Faculty of Sciences & Engineering
-
-Semester: (Fall, Year: 2022), B.Sc. in CSE (Day)
-
-Project Report
-
-Course Title: Computer Networking Lab
-
-Course Code: CSE 312 Section: DB
-
-Project Name: Group Chatting Android
-
-Application(Communicator).
-
-Student Details
-
-| Name         | ID           |
-| ------------ | ------------ |
-| Rayhan Kobir | \*\*\*\*\*\* |
-|              |              |
-
-Submission Date: January 07, 2023 Course Teacher’s Name: Rusmita Halim Chaity
-
-[For Teacher’s use only: Don’t write anything in this box.]
-
-Lab Report Status![](documentation/Aspose.Words.0fc37968-a019-4bac-b106-05821f43c87b.002.png)
-
-Marks: ............... Signature: .................... Comments: .................... Date: .............................
-
-Contents
-
-[1 Introduction](#_page2_x63.64_y63.16) 3
+﻿[1 Introduction](#_page2_x63.64_y63.16) 3
 
 1. [Aim of the project ](#_page2_x63.64_y178.23). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
 1. [Objective ](#_page2_x63.64_y438.30). . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 3
@@ -86,13 +51,14 @@ Nowadays, everyone wants connect together and make communication with each other
 
 <a name="_page2_x63.64_y618.46"></a>In this application we are used Agile Model to build our application. Our application is user based multiple users are connected with our application. So we have to changed our requirements frequently that’s why this agile model is good fit for our application. Another reason to chose agile that is agile is good for mobile application it’s provide us to build ideal application by using iterative and incremental process.
 
-![]documentation/Aspose.Words.0fc37968-a019-4bac-b106-05821f43c87b.003.png)
+![](documentation/Aspose.Words.0fc37968-a019-4bac-b106-05821f43c87b.003.png)
 
 Figure 1: Agile Model
 
 1. Socket<a name="_page4_x63.64_y63.16"></a> & ServerSocket
 
 This class implements server sockets. A server socket waits for requests to come in over the network. It performs some operation based on that request, and then possibly returns a result to the requester.
+![](documentation/Aspose.Words.0fc37968-a019-4bac-b106-05821f43c87b.003.png)
 
 Creates a server socket, bound to the specified port. A port number of 0 means that the port number is automatically allocated, typically from an ephemeral port range. This port number can then be retrieved by calling getLocalPort. The maximum queue length for incoming connection indications (a request to connect) is set to 50. If a connection indication arrives when the queue is full, the connection is refused. Socket are the pre-build class which provided by Java
 
@@ -196,13 +162,13 @@ Our Project is mostly implemented on Java and Android Studio.
 
 here we can see the first floor of our project. it is the management floor of out system. here we can see bufferReader read the newest data from the stream and after that users give message catch the message as string and write to bufferWriter which will send to the server.
 
-![](documentation/Words.0fc37968-a019-4bac-b106-05821f43c87b.009.png)
+![](documentation/Aspose.Words.0fc37968-a019-4bac-b106-05821f43c87b.009.png)
 
 Figure 7: Chat Screen
 
 here we use Google Authentication for the login and sign up both after the login the application will navigate to dashboard page of the communicator.
 
-![](documentation/Words.0fc37968-a019-4bac-b106-05821f43c87b.010.png)
+![](documentation/Aspose.Words.0fc37968-a019-4bac-b106-05821f43c87b.010.png)
 
 Figure 8: Chatting features of communicator
 
@@ -222,7 +188,7 @@ Communicator have server side and client side. Users are interact with the clien
 
 Figure 10: Login system of Communicator
 
-![](documentation/Words.0fc37968-a019-4bac-b106-05821f43c87b.012.png)
+![](documentation/Aspose.Words.0fc37968-a019-4bac-b106-05821f43c87b.012.png)
 
 Figure 11: Server side of the Communicator
 
@@ -234,13 +200,13 @@ Figure 11: Server side of the Communicator
 
 <a name="_page13_x63.64_y677.90"></a>Communicator is a mobile application and performance is the most important part of the application. We have to consider memory, network, cpu and others things. In this below
 
-![](documentation/Words.0fc37968-a019-4bac-b106-05821f43c87b.013.png)
+![](documentation/Aspose.Words.0fc37968-a019-4bac-b106-05821f43c87b.013.png)
 
 Figure 12: Client Chat Screen
 
 figure we provided here the application consume the 124 MB which is quite good for us and users.
 
-![](documentation/Words.0fc37968-a019-4bac-b106-05821f43c87b.014.png)
+![](documentation/Aspose.Words.0fc37968-a019-4bac-b106-05821f43c87b.014.png)
 
 When the application is run by the user then the application consume high energy at this above performance evaluation when main activity comes to run application consume high energy the it’s release the energy if the any activity runs on the screen then it’s consume less energy.
 
@@ -278,4 +244,4 @@ If we added our application to the google play store then, Everyone can easily f
 
 16
 
-[ref1]: Aspose.Words.0fc37968-a019-4bac-b106-05821f43c87b.011.png
+[ref1]: documentation/Aspose.Words.0fc37968-a019-4bac-b106-05821f43c87b.011.png
